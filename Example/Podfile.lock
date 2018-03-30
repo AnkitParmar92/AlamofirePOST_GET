@@ -1,0 +1,22 @@
+PODS:
+  - Alamofire (4.6.0)
+  - LNSideMenu (3.0)
+  - Parchment (1.0.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - LNSideMenu (from `../`)
+  - Parchment
+
+EXTERNAL SOURCES:
+  LNSideMenu:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  LNSideMenu: f11088c9316c382f62f1cb757bca39382bf67bef
+  Parchment: 7bf8796a64a0b3d1a8efc4137726809d08b00c3d
+
+PODFILE CHECKSUM: 37482515d72d2698ef18b5b0119fd193c8a4ba34
+
+COCOAPODS: 1.4.0

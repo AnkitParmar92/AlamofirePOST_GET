@@ -1,0 +1,8 @@
+use_frameworks!
+
+target 'LNSideMenu_Example' do
+  pod 'LNSideMenu', :path => ‘../‘
+  pod 'Parchment'
+  pod 'Alamofire'
+
+end
